@@ -1,0 +1,25 @@
+{
+  "created_at_utc": "2026-09-25T14:37:02.507641+00:00",
+  "input_jsonl": "D:\\AI任务\\知识库\\knowledge_base_2026.jsonl",
+  "input_sha256": "0eec6565ce668e23fddbd04f37fe59075debc5e1fdbdc893c2455ca9b100d834",
+  "model": "Qwen3-Embedding-0.6B",
+  "model_path": "D:\\AI任务\\知识库\\models\\Qwen3-Embedding-0.6B",
+  "device": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "dtype": "float16",
+  "dimensions": 1024,
+  "chunks": 3576,
+  "companies": {
+    "万马股份": 357,
+    "兆龙互连": 246,
+    "新亚电子": 327,
+    "沃尔核材": 356,
+    "泓淋电力": 371,
+    "瑞可达": 458,
+    "神宇股份": 300,
+    "立讯精密": 607,
+    "金信诺": 554
+  },
+  "index_file": "D:\\AI任务\\2026-09-25\\年报语义地图RAG\\work\\vector_index.npz",
+  "index_size_bytes": 6780747,
+  "elapsed_seconds": 374.08
+}

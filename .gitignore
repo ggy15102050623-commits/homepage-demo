@@ -1,0 +1,18 @@
+# Credentials and local-only configuration
+work/.secrets/
+.env
+*.key
+
+# Browser profiles, logs, raw scratch outputs, and helper scripts
+work/edge-profile*/
+work/*.log
+work/evaluation_raw.json
+work/inspect_*.py
+work/review_*.py
+work/smoke_*.py
+work/make_*.py
+
+# Generated caches and duplicate archive (individual files are tracked)
+outputs/__pycache__/
+work/__pycache__/
+outputs/年报语义地图RAG交付包.zip

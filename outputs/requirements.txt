@@ -1,0 +1,7 @@
+Flask>=3.0
+numpy>=1.26
+scikit-learn>=1.4
+requests>=2.32
+httpcore>=1.0.5
+h11>=0.16,<1
+transformers>=4.51.0,<5
